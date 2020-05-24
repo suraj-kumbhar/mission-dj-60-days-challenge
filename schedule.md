@@ -60,5 +60,6 @@ The whole journey is of 60 days which is divided into 4 major sections:
 Basics (Code + Real life Example + Sample Code) | 2 days  
 [C++ Resources](https://www.geeksforgeeks.org/c-plus-plus/)  
 [Java Resources](https://www.geeksforgeeks.org/java/)
+**Note:** Cover top 100 OOPs interview questions
 
 ###### Total : 2 days : 8 x 2 = 16 hours
